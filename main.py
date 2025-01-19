@@ -11,16 +11,21 @@
 
 # print("{} - {} - {}".format(a,b,c))
 
-print("Input first number")
-a = input()
+# print("Input first number")
+# a = int(input())
+# b = int(input("Please input second number:"))
 
-b = input ("Please input second number:")
+# print(a, "+", b, "=", a + b)
 
-print(a, "+", b, "=", a + b)12
-
-# c = 1
-# print(c)
+# # c = 1
+# # print(c)
 # print(type(c))
 # c = bool(c)
 # print(c)
 # print(type(c))
+
+# a = 1.2441241
+# b = 5.43543545
+# print(round(a*b, 3))
+
+
